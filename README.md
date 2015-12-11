@@ -1,7 +1,7 @@
 # XConsumer
 A java Producer/Multi-Consumer tool based on BlockingQueue.
 
-# Usage:
+# Usage
 
 ```java
 public class Main {
